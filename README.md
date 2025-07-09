@@ -7,10 +7,6 @@ The IPL dataset includes detailed information about each season’s matches, pla
 1.MySQL: IPL Analytical Questions
  
 
-To upload data to SQL use the following code snippet and edit according to the requirement.
-https://github.com/Ayushi0214/SQL-Python-Ecommerce-Project/blob/main/csv_to_sql.py
- 
-
 Write SQL queries to solve the following:
 
 Which batsman has scored the highest total runs?
